@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.toggler-icon{
+    width: 30px;
+    height: 3px;
+    background-color: rgb(233, 31, 31);
+    display: block;
+    transition: all 0.2s;
+}
+.middle-bar{
+    margin: 5px;
+}
+.r1{
+    background-color: #8a2bea;
+    background: linear-gradient(rgba(0,0,0,0.4)rgba(0,0,0,0.6));
+}
+.r2{
+    height: 15rem;
+    width: 20rem;
+    border: 0.2rem solid whitesmoke;
+    border-radius: 1rem;
+}
+.r3{
+    border: 0.1rem solid whitesmoke;
+    border-radius: 2rem;
+}
+.r4{
+    padding-top:1.5rem;
+}
+.r5{
+    background-color: #a45df09d;
+    margin-left:7rem ;
+    margin-right: 7rem;
+}
+.r6{
+    border: 0.1rem solid whitesmoke;
+    border-left: none;
+    border-right: none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.r7{
+    padding-bottom: 3rem;
+}
+
